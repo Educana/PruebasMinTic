@@ -9,3 +9,15 @@ body{
 p {
   color: aqua;
 }
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+  color: rgb(101, 215, 25);
+}
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
+  color: blueviolet;
+}
+.nav-tabs .nav-link{
+  color: rgb(249, 7, 7);
+}
+/* */ 
+
+
